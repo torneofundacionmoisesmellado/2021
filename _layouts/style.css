@@ -1,3 +1,3 @@
-{% include css/bootstrap.min.css %}
-{% include css/agency.css %}
+{% include _includes/css/bootstrap.min.css %}
+{% include _includes/css/agency.css %}
 {{ content }}
