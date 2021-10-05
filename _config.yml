@@ -1,5 +1,5 @@
-url: ""
-baseurl: "torneofundacionmoisesmellado.github.io/2021"
+url: "torneofundacionmoisesmellado.github.io"
+baseurl: "/2021/"
 
 # Site settings
 title: Awesome Title
